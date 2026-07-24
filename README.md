@@ -48,7 +48,7 @@ The project was developed using Xilinx Vivado and verified through simulation, R
 <p align="center">
 <img src="images/architecture.png" width="800">
 </p>
-![Uploading image.png…]()
+![image alt](https://github.com/SharanTirupathi/uart/blob/06888d1a29d0dffb60d640c0ae84899b2c9e58e7/architecture.png)
 
 ---
 
