@@ -48,6 +48,7 @@ The project was developed using Xilinx Vivado and verified through simulation, R
 <p align="center">
 <img src="images/architecture.png" width="800">
 </p>
+![Uploading image.png…]()
 
 ---
 
